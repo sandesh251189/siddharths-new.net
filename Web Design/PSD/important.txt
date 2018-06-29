@@ -1,0 +1,3 @@
+ here you can keep all of your design project files like final mockups, style guide files,
+wireframes, etc. Some projects need many PSD files, so you may want to group them by
+versions or type.

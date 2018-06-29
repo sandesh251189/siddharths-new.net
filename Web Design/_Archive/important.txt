@@ -1,0 +1,4 @@
+never remove old or unused design files! If there are any design concepts that
+weren’t approved by the client, you can always keep them in the _Archive folder. You never
+know when you may need them. You can zip it to save some space on your hard drive.
+I can’t remember how many times this folder saved my life.

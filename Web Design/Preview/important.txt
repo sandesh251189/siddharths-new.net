@@ -1,0 +1,3 @@
+ this folder is reserved for all files that you show to other people. These files are
+usually in PNG, PDF or JPG format. You may want to categorize the preview files by revision
+rounds to keep track of the progress.
